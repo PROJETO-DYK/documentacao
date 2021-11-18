@@ -8,7 +8,7 @@ O objetivo do sistema e a criação de um programa de perguntas e respostas  par
 
 ## Linguagens de programação utilizadas:
 
-- [Java]([Java | Oracle](https://www.java.com/pt-BR/));
+- [Java | Oracle](https://www.java.com/pt-BR/);
 - banco de dados a definir;
 
 ## Regras do jogo:
