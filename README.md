@@ -45,7 +45,7 @@ A ser construído
 
 A ser construído
 
-#Banco de Dados
+# Banco de Dados
 As entidades relacionadas para este projeto são:
 - Personagem
 - Perguntas e Respostas
