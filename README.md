@@ -45,10 +45,16 @@ A ser construído
 
 A ser construído
 
-## Modelo Entidade Relacionamento da base de dados do sistema
+#Banco de Dados
+As entidades relacionadas para este projeto são:
+- Personagem
+- Perguntas e Respostas
+- Ranking
+
+## Modelo Entidade Relacionamento da base de dados do sistema (CONCEITUAL)
 
 A ser construído
 
-## Modelo Relacional da base de dados do sistema
+## Modelo Relacional da base de dados do sistema (LOGICO)
 
 A ser construído.
