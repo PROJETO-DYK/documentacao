@@ -48,12 +48,15 @@ A ser construído
 # Banco de Dados
 As entidades relacionadas para este projeto são:
 - Personagem
+- Jogador
+- Partida
+- Pontuação
 - Perguntas e Respostas
 - Ranking
 
 ## Modelo Entidade Relacionamento da base de dados do sistema (CONCEITUAL)
 
-A ser construído
+- [Diagrama Conceitual](https://drive.google.com/file/d/1O-4l0XxJDzE7-W7Mv4OU4Ef2i-Mu1MJh/view?usp=sharing)
 
 ## Modelo Relacional da base de dados do sistema (LOGICO)
 
