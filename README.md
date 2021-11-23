@@ -60,5 +60,5 @@ As entidades relacionadas para este projeto são:
 
 ## Modelo Relacional da base de dados do sistema (LOGICO)
 
-<img src="C:\Users\thiago.f.santos\Desktop\Anima\Thiago\Aulas\UNA\1 Semestre\Projeto Final\documentacao\Imagens\DER DYK.svg" alt="Modelo Logico Banco de Dados" style="zoom:100%;" />
+<img src=".\Imagens\DER DYK.svg" alt="Modelo Logico Banco de Dados" style="zoom:100%;" />
 
