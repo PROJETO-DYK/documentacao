@@ -9,7 +9,7 @@ O objetivo do sistema e a criação de um programa de perguntas e respostas  par
 ## Linguagens de programação utilizadas:
 
 - [Java | Oracle](https://www.java.com/pt-BR/);
-- banco de dados a definir;
+- [MySQL](https://www.mysql.com/);
 
 ## Regras do jogo:
 
@@ -47,12 +47,13 @@ A ser construído
 
 # Banco de Dados
 As entidades relacionadas para este projeto são:
+- Usuario
 - Personagem
+- Habilidade
 - Jogador
-- Partida
-- Pontuação
-- Perguntas e Respostas
-- Ranking
+- Pergunta
+- Resposta
+- Tipo Pergunta
 
 ## Modelo Entidade Relacionamento da base de dados do sistema (CONCEITUAL)
 
