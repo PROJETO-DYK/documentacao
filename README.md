@@ -30,7 +30,7 @@ O objetivo do sistema e a criação de um programa de perguntas e respostas  par
 
 ## Cronograma previsto
 
-- [Quadro Trello]([DYK | Trello](https://trello.com/b/kNEBRsV9/dyk))
+[DYK | Trello](https://trello.com/b/kNEBRsV9/dyk)
 
 ## Colaboradores
 
