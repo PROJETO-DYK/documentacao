@@ -39,7 +39,7 @@ O objetivo do sistema e a criação de um programa de perguntas e respostas  par
 
 ## Diagrama de Casos de uso do sistema
 
-- [Diagrama de caso de uso](https://lucid.app/lucidchart/f50d1566-4e3f-406b-8e98-b77afb659442/edit?viewport_loc=-138%2C117%2C1977%2C970%2C.Q4MUjXso07N&invitationId=inv_10ecba01-3537-42d2-b87e-a02d9e62559d)
+- <img src=".\Imagens\Diagrama de caso de uso - DYK.svg" alt="Diagrama Caso de Uso" style="zoom:70%;" />
 
 ## Diagrama de Classes do sistema
 
