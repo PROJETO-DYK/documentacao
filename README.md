@@ -39,7 +39,7 @@ O objetivo do sistema e a criação de um programa de perguntas e respostas  par
 
 ## Diagrama de Casos de uso do sistema
 
-- <img src=".\Imagens\Diagrama de caso de uso - DYK.svg" alt="Diagrama Caso de Uso" style="zoom:70%;" />
+<img src=".\Imagens\Diagrama de caso de uso - DYK.svg" alt="Diagrama Caso de Uso" style="zoom:70%;" />
 
 ## Diagrama de Classes do sistema
 
