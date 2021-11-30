@@ -30,7 +30,7 @@ O objetivo do sistema e a criação de um programa de perguntas e respostas  par
 
 ## Cronograma previsto
 
-- [Quadro Trello]([DYK | Trello](https://trello.com/b/kNEBRsV9/dyk))
+[DYK | Trello](https://trello.com/b/kNEBRsV9/dyk)
 
 ## Colaboradores
 
@@ -39,7 +39,7 @@ O objetivo do sistema e a criação de um programa de perguntas e respostas  par
 
 ## Diagrama de Casos de uso do sistema
 
-- <img src=".\Imagens\Diagrama de caso de uso - DYK.svg" alt="Diagrama Caso de Uso" style="zoom:70%;" />
+<img src=".\Imagens\Diagrama de caso de uso - DYK.svg" alt="Diagrama Caso de Uso" style="zoom:70%;" />
 
 ## Diagrama de Classes do sistema
 
