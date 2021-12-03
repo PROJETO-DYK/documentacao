@@ -48,7 +48,7 @@ usuario entra no programa
 		- O looing so termina quando as perguntas chegarem ao fim, se um usuario chegar a 0 de vida ou se o usuario decidir parar de jogar
 			- Se acabar as perguntas, ver qual dos jogadores possue mais pontos e em seguida mostrar o vencedor na tela "O vencedor da partida foi o jogador nº ? com ? pontos"
 				- FIM DE JOGO
-			- Se um dos jogadores chegar a 0 de vida mostrar mensagem "Você atingiu 0 de vida! Sua pontuação e ?"
+			- Se um dos jogadores chegar a 0 de vida mostrar mensagem "Você atingiu 0 de vida! Sua pontuação e ?" em seguida mostrar na tela o vencedor da partida
 				- FIM DE JOGO
 			- Se o usuario decidir parar o jogo, o usuario solicitante perdera x pontos. Sera feita a contagem dos pontos o jogador com a maior quantidade de pontos sera mostrado na tela "O vencedor da partida foi o jogador nº ? com ? pontos! PARABENS!!"
 	- Apos a finalizaçao da partida armazenar o apelido e a quantidade de pontos do usuario no RANKING para futura consulta
