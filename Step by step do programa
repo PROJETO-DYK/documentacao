@@ -37,5 +37,22 @@ usuario entra no programa
 + Contribuir com o jogo
 - permite ao usuario cadastrar perguntas e respostas
 
++ Jogo
+	- Antes de iniciar o jogo de fato, preciso puxar os dados ja inseridos pelos jogadores
+	- Com o codigo do jogador fazer um random para ver qual dos dois vai jogar primeiro
+	- Puxar as perguntas e respostas do Banco de Dados para mostrar na tela
+	- Decidido quem vai jogar primeiro, devemos chamar o jogador para que ele possa começar a responder as perguntas
+	- Nessa parte tenho de puxar as perguntas em um looping onde o jogador escolhido no random ira responder
+		- Se a resposta for correta, mostrar mensagem "Excelente +1 ponto", e em seguida mostrar a quantidade de pontos do usuario e a vida. Apos isso mudar a vez para o proximo jogador
+		- Se a resposta for incorreta, mostrar mensagem "Ops! Você errou + 0 ponto e -10 HP", em seguida mostrar a quantidade de pontos do usuario e a vida. Apos isso mudar a vez para o proximo jogador
+		- O looing so termina quando as perguntas chegarem ao fim, se um usuario chegar a 0 de vida ou se o usuario decidir parar de jogar
+			- Se acabar as perguntas, ver qual dos jogadores possue mais pontos e em seguida mostrar o vencedor na tela "O vencedor da partida foi o jogador nº ? com ? pontos"
+				- FIM DE JOGO
+			- Se um dos jogadores chegar a 0 de vida mostrar mensagem "Você atingiu 0 de vida! Sua pontuação e ?"
+				- FIM DE JOGO
+			- Se o usuario decidir parar o jogo, o usuario solicitante perdera x pontos. Sera feita a contagem dos pontos o jogador com a maior quantidade de pontos sera mostrado na tela "O vencedor da partida foi o jogador nº ? com ? pontos! PARABENS!!"
+	- Apos a finalizaçao da partida armazenar o apelido e a quantidade de pontos do usuario no RANKING para futura consulta
+	- FIM DO JOGO
+	* TALVEZ SERIA UMA BOA MOSTRAR UMA MENSAGEM COMO: "JOGO DESENVOLVIDO POR THIAGO E GLADSON EM VIRTUDE DE UM TRABALHO NA INSTITUIÇÃO UNA DO CAMPOS CRISTIANO MACHADO. OBRIGADO POR JOGAR!!" 
 
 
