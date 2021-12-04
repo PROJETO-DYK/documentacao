@@ -39,10 +39,14 @@ usuario entra no programa
 
 + Jogo
 	- Antes de iniciar o jogo de fato, preciso puxar os dados ja inseridos pelos jogadores
+	(obs voce ja tem os dados na lista chamada "jogadores" temos que percorrer ela)
 	- Com o codigo do jogador fazer um random para ver qual dos dois vai jogar primeiro
-	- Puxar as perguntas e respostas do Banco de Dados para mostrar na tela
+	(o radom voce vai fazer entre dois numeros mesmo (1 e 2) e selecionar o jogador correspondente da lista jogadores)
+	- buscar as perguntas e respostas do Banco de Dados para mostrar na tela
 	- Decidido quem vai jogar primeiro, devemos chamar o jogador para que ele possa começar a responder as perguntas
+	(ja foi escolhido o jogador)
 	- Nessa parte tenho de puxar as perguntas em um looping onde o jogador escolhido no random ira responder
+	(criar um metodo que alterna entre os jogadores)
 		- Se a resposta for correta, mostrar mensagem "Excelente +1 ponto", e em seguida mostrar a quantidade de pontos do usuario e a vida. Apos isso mudar a vez para o proximo jogador
 		- Se a resposta for incorreta, mostrar mensagem "Ops! Você errou + 0 ponto e -10 HP", em seguida mostrar a quantidade de pontos do usuario e a vida. Apos isso mudar a vez para o proximo jogador
 		- O looing so termina quando as perguntas chegarem ao fim, se um usuario chegar a 0 de vida ou se o usuario decidir parar de jogar
