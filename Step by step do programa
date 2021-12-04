@@ -7,21 +7,14 @@ usuario entra no programa
 	- sair
 
 + iniciar jogo (Esqueleto montado)
-	- ja sou cadastrado -> busca o usuario e o seu personagem
-	- criar usuario -> cria o usuario e associa a um personagem
-	- ranking
-	- sair
+	- ja sou cadastrado -> ok
+	- criar usuario -> ok
+	- ranking -> falta desenvolver
+	- sair ok
 
-- ja sou cadastrado
-	- digita usuario e senha (feito, mas pode sofrer alterações)
-	- se correto volta para o menu inicial e escolha do segundo Usuario 
-	- se ja for o segundo usuario, faz um sorteio para ver quem incia o jogo e inicia o jogo
++ Jogo 
 
-- criar usuario
-	- pedir para que digite os dados necessarios
-	- escolhe o personagem
-	- se segundo usuario faz sorteio e incia o jogo
-	- se nao volta ao menu incial para escolha do segundo usuario
+
 
 - ranking
 	- recupera o apelido de todos os usuario, caso nao exista, o nome e exibido um ranking baseado em quem venceu mais vezes
