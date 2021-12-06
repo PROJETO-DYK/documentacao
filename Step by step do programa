@@ -51,3 +51,31 @@ usuario entra no programa
 	* TALVEZ SERIA UMA BOA MOSTRAR UMA MENSAGEM COMO: "JOGO DESENVOLVIDO POR THIAGO E GLADSON EM VIRTUDE DE UM TRABALHO NA INSTITUIÇÃO UNA DO CAMPOS CRISTIANO MACHADO. OBRIGADO POR JOGAR!!" 
 
 
+
+#### ADICIONAR NA PARTIDA #########
+
+Deve apresentar os personagens escolhidos e a porcentagem de vida. 
+
+Abaixo, deve ter o enunciado e as alternativas da rodada com letras.
+
+Quando escolhida uma alternativa, uma mensagem perguntando se tem certeza da resposta deve aparecer.
+Se escolher não, volta para a pergunta.
+
+Se escolher sim e a resposta estiver correta
+Exibe uma mensagem parabenizando. 
+Exibe o conteúdo da pergunta seguinte.
+
+Se escolher sim e a resposta estiver errada
+Exibe uma mensagem de erro.
+Erro de resposta é acionado.
+Reduz a vida do personagem em 5%.
+Exibe o conteúdo da pergunta seguinte se o jogo não acabar.
+
+Deve perguntar se quer parar o jogo. Mas para isso, os dois jogadores devem estar de acordo. Se o outro jogador não estiver, 15% do tempo de vida do personagem do jogador solicitante  é repassado para o personagem do outro jogador. Só depois verifica o vencedor (quem tem mais tempo de vida).   
+
+O jogo termina quando a vida de um dos personagens é zerada.
+
+######## ADICIONAR AS PERGUNTAS E RESPOSTAS ###############
+
+Após o término da partida, apresentar a pontuação final do jogador (tempo de vida do personagem), que, considerando ser um jogo educativo, não pode ser abaixo de zero. 
+Voltar para a tela inicial.
