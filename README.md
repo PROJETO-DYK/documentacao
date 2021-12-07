@@ -56,7 +56,7 @@ As entidades relacionadas para este projeto são:
 
 ## Modelo Entidade Relacionamento da base de dados do sistema (CONCEITUAL)
 
-<img src=".\Imagens\DIAGRAMA CONCEITUAL DYK.png" alt="Diagrama Conceitual" style="zoom:10%;" />
+<img src=".\Imagens\DIAGRAMA CONCEITUAL DYK.png" alt="Diagrama Conceitual" style="zoom:5%;" />
 
 ## Modelo Relacional da base de dados do sistema (LOGICO)
 
