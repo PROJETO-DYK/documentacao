@@ -39,10 +39,10 @@ O objetivo do sistema e a criação de um programa de perguntas e respostas  par
 
 ## Diagrama de Casos de uso do sistema
 
-<img src=".\Imagens\Diagrama-de-caso-de-uso-DYK.svg" alt="Diagrama Caso de Uso" style="zoom:70%;" />
+<img src=".\Imagens\Diagrama-de-caso-de-uso-DYK.png" alt="Diagrama Caso de Uso" style="zoom:70%;" />
 
 ## Diagrama de Classes do sistema
-<img src=".\Imagens\Diagrama-de-Classes.svg" alt="Diagrama Caso do Sistema" style="zoom:70%;" />
+<img src=".\Imagens\Diagrama-de-Classes.png" alt="Diagrama Caso do Sistema" style="zoom:70%;" />
 
 # Banco de Dados
 As entidades relacionadas para este projeto são:
@@ -56,7 +56,7 @@ As entidades relacionadas para este projeto são:
 
 ## Modelo Entidade Relacionamento da base de dados do sistema (CONCEITUAL)
 
-<img src=".\Imagens\DIAGRAMA-CONCEITUAL-DYK.svg" alt="Diagrama Conceitual" style="zoom:70%;" />
+<img src=".\Imagens\DIAGRAMA-CONCEITUAL-DYK.png" alt="Diagrama Conceitual" style="zoom:70%;" />
 
 ## Modelo Relacional da base de dados do sistema (LOGICO)
 
